@@ -1,0 +1,3 @@
+Hola, me llamo Santiago!
+Estoy practicando Python, y como utilizarlo para automatizar tareas.
+Estamos aprendiendo manejo de archivos.
